@@ -3,7 +3,7 @@
 # ====== Description ======
 
 Simple python code using RealSense L515 camera for depth measument.
-The ball is find using color detection using OpenCV.
+The ball is find using color detection (OpenCV).
 
 Author: Michael Aboulhair 
 Date: 01/09/20
