@@ -3,7 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pyrealsense2 as rs
 
-# Setup:
+# Author: Michael Aboulhair 
+
 pipe = rs.pipeline()
 config = rs.config()
 config.enable_stream(rs.stream.depth, 1024, 768, rs.format.z16, 30)
@@ -105,5 +106,6 @@ try:
     cv2.imshow('mask', mask)
 
     cv2.waitKey(1)
+	
 finally:
   pipe.stop()
