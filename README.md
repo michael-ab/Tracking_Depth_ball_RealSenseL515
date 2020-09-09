@@ -1,6 +1,5 @@
 # Tracking_Depth_ball_RealSenseL515 - Python
 
-
 # ====== Description ======
 
 Simple python code using RealSense L515 camera for depth measument.
