@@ -10,18 +10,19 @@ Date: 01/09/20
 
 # ====== Dependencies ======
 
-OpenCV
-
+OpenCV:
+```bash
 pip install opencv-python
-
-NumPy
-
+```
+NumPy:
+```bash
 pip install numpy
-
-Matplotlib
-
+```
+Matplotlib:
+```bash
 pip install matplotlib
-
-RealSense2
-
+```
+RealSense2:
+```bash
 pip install RealSense2
+```
