@@ -8,7 +8,7 @@ The ball is find using color detection (OpenCV).
 
 Project demo in youtube:
 
-[![Watch the video](https://img.youtube.com/vi/eeKkrWj55Bg/sddefault.jpg)](https://youtu.be/eeKkrWj55Bg)
+[![Watch the video](https://img.youtube.com/vi/6wKWf0wkmmw/sddefault.jpg)](https://youtu.be/6wKWf0wkmmw)
 
 
 Author: Michael Aboulhair
