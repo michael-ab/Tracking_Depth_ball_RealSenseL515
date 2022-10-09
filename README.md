@@ -7,6 +7,7 @@ Simple python code using RealSense L515 camera for depth measument.
 The ball is find using color detection (OpenCV).
 
 Project demo in youtube:
+
 [![Watch the video](https://img.youtube.com/vi/eeKkrWj55Bg/sddefault.jpg)](https://youtu.be/eeKkrWj55Bg)
 
 
